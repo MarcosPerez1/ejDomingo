@@ -17,6 +17,7 @@ box-sizing: border-box;
     display: flex;
     gap: 10px;
     padding-top: 10px;
+    width: 100%;
     
 }
 

@@ -1,6 +1,7 @@
 const campoTipos = document.querySelector(".selectores");
 const campoAlbum = document.querySelector(".album");
 const campoAlerta = document.querySelector(".alertas");
+const fragment = document.createDocumentFragment();
 
 const arrayImagenes = [
     {
